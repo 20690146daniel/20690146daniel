@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Daniel Cervantes Villanueva</h1>
-
-
+<h1 align="center">Hi , I'm Daniel Cervantes Villanueva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=20690146daniel" alt="MarikIshtar007" /> </p>
+<p aling="left">  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" /></p>
 <p align="center">
   I am a Computer Systems Engineer  eager to grow and learn continuously. I'm passionate about web development and creating innovative solutions.
 </p>
@@ -9,7 +9,8 @@
   🌵 San Luis Potosí, Mexico
 </p>
 
-## About Me
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 
 *   Programming since 2022
 *   **Currently Learning:** React Native, Kotlin
