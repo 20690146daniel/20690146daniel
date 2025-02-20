@@ -16,7 +16,6 @@
 *   Interested in front-end development and UI/UX design
 *   Always seeking new challenges and opportunities to expand my skillset
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## I Develop
 
